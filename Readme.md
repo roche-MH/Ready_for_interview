@@ -1,6 +1,6 @@
 # Ready for interview
 
-인터뷰 준비 및 기본 다지기(임명훈 취업 프로젝투)
+인터뷰 준비 및 기본 다지기(roche-MH 취뽀)
 
 ## List
 
