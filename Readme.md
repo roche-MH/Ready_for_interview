@@ -6,7 +6,7 @@
 
 * CS
   * 자료구조
-  * 네트워크
+  * [네트워크](https://github.com/roche-MH/Ready_for_interview/tree/master/Network)
   * 운영체제
   * [데이터베이스](https://github.com/roche-MH/Ready_for_interview/blob/master/DB/Readme.md)
   * 알고리즘
