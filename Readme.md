@@ -5,7 +5,7 @@
 ## List
 
 * CS
-  * 자료구조
+  * [자료구조](https://github.com/roche-MH/Ready_for_interview/tree/master/DataStructure)
   * [네트워크](https://github.com/roche-MH/Ready_for_interview/tree/master/Network)
   * 운영체제
   * [데이터베이스](https://github.com/roche-MH/Ready_for_interview/blob/master/DB/Readme.md)
@@ -16,7 +16,7 @@
   * Data Scientist
 
 * interview
-  * Q. CS
+  * [Q. CS]([https://github.com/roche-MH/Ready_for_interview/tree/master/Q.%20CS](https://github.com/roche-MH/Ready_for_interview/tree/master/Q. CS))
   * Q. ML
   *  A. CS
   *  A. ML 
