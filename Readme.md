@@ -16,7 +16,7 @@
   * Data Scientist
 
 * interview
-  * [Q. CS]([https://github.com/roche-MH/Ready_for_interview/tree/master/Q.%20CS](https://github.com/roche-MH/Ready_for_interview/tree/master/Q. CS))
+  * [Q. CS](https://github.com/roche-MH/Ready_for_interview/tree/master/Q.%20CS](https://github.com/roche-MH/Ready_for_interview/tree/master/Q. CS)
   * Q. ML
   *  A. CS
   *  A. ML 
