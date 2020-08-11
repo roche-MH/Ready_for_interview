@@ -1,6 +1,6 @@
 # Ready for interview
 
-인터뷰 준비 및 기본 다지기(임명훈 취업 프로젝투)
+CS and ML 인터뷰 준비(clone 보다 star 로 업데이트 되는 정보 확인하세요:zap:)
 
 ## List
 
